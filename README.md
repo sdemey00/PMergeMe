@@ -1,3 +1,4 @@
+~10h
 *This project has been created as part of the 42 curriculum by sdemey.*
 # PmergeMe – Merge-Insertion Sort (Ford–Johnson Algorithm)
 PmergeMe is an implementation of the Ford–Johnson algorithm, also known as Merge-Insertion Sort.
